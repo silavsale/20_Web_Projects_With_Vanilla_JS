@@ -2,4 +2,6 @@
 
 #####
 
-* 1: Form Validator
+- 1: Form Validator
+- 2: Movie Seat Booking | DOM & Local Storage
+- 3: Custom Video Player | HTML5 Video API
